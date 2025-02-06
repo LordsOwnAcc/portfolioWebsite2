@@ -4,8 +4,8 @@ const nextConfig = {
     images: {
       unoptimized: true, // Required for GitHub Pages
     },
-    basePath: "/your-repo-name", // Change this to your GitHub repo name
-    assetPrefix: "/your-repo-name",
+    basePath: "https://github.com/LordsOwnAcc/portfolioWebsite2", // Change this to your GitHub repo name
+    assetPrefix: "https://github.com/LordsOwnAcc/portfolioWebsite2",
   }
   
   module.exports = nextConfig
