@@ -1,9 +1,9 @@
 1:HL["/portfolioWebsite2/_next/static/media/a34f9d1faa5f3315-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:HL["/portfolioWebsite2/_next/static/css/98dfd2cedd25f4b1.css","style",{"crossOrigin":""}]
-0:["QWxJj76CU922jYCIBaI6x",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/portfolioWebsite2/_next/static/css/98dfd2cedd25f4b1.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+0:["wam7Mi2vlzDrfbjbrYzIB",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/portfolioWebsite2/_next/static/css/98dfd2cedd25f4b1.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 5:HL["/portfolioWebsite2/_next/static/css/11f43076b13d94f5.css","style",{"crossOrigin":""}]
-6:I{"id":1443,"chunks":["272:static/chunks/webpack-cefe04fcfdf5f699.js","971:static/chunks/fd9d1056-06e19bc73bef86b8.js","864:static/chunks/864-5557736b23605b09.js"],"name":"","async":false}
-7:I{"id":8639,"chunks":["272:static/chunks/webpack-cefe04fcfdf5f699.js","971:static/chunks/fd9d1056-06e19bc73bef86b8.js","864:static/chunks/864-5557736b23605b09.js"],"name":"","async":false}
+6:I{"id":1443,"chunks":["272:static/chunks/webpack-cefe04fcfdf5f699.js","971:static/chunks/fd9d1056-06e19bc73bef86b8.js","864:static/chunks/864-f6f925aaf866fe4d.js"],"name":"","async":false}
+7:I{"id":8639,"chunks":["272:static/chunks/webpack-cefe04fcfdf5f699.js","971:static/chunks/fd9d1056-06e19bc73bef86b8.js","864:static/chunks/864-f6f925aaf866fe4d.js"],"name":"","async":false}
 9:I{"id":786,"chunks":["420:static/chunks/9081a741-c38e38f0631fe4a3.js","856:static/chunks/856-2d6e30049e63ce21.js","931:static/chunks/app/page-c0002f20f6a20c2d.js"],"name":"","async":false}
 a:I{"id":1093,"chunks":["420:static/chunks/9081a741-c38e38f0631fe4a3.js","856:static/chunks/856-2d6e30049e63ce21.js","931:static/chunks/app/page-c0002f20f6a20c2d.js"],"name":"","async":false}
 b:I{"id":1511,"chunks":["420:static/chunks/9081a741-c38e38f0631fe4a3.js","856:static/chunks/856-2d6e30049e63ce21.js","931:static/chunks/app/page-c0002f20f6a20c2d.js"],"name":"","async":false}
