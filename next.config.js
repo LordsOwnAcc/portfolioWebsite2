@@ -2,7 +2,7 @@
 const nextConfig = {
     output: 'export',
     images: { unoptimized: true },
-    basePath: "/portfolioWebsite2",  // Your repository name
+    basePath: "/portfolioWebsite2",  
     assetPrefix: "/portfolioWebsite2",
   };
   
